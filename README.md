@@ -63,7 +63,7 @@ See `TODO`'s for location of HTML changes.  Be sure to remove the `TODO` comment
         <a target="_blank" href="https://www.twitter.com" class="twitter"><i class="fab fa-twitter"></i></a>
     </li>
     <li>
-        <a target="_blank" href="https://www.github.com" class="github"><i class="fab fa-github"></i></a>
+        <a target="_blank" href="https://www.github.com/Jumanah16" class="github"><i class="fab fa-github"></i></a>
   </li>
 ```
 5. Add hamburger and brand to all headers.
